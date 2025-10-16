@@ -5,20 +5,15 @@ Welcome to the course **Advances in Dimensionality Reduction**! This course comb
 ---
 
 
-
 ##  Schedule
 
-### **Friday, May 23 – 9:30 AM–1:00 PM**
+### **Day 1**
 - Linear algebra review
 - Introduction to dimensionality reduction
-- Linear methods (Part I)
+- Linear methods
 
-### **Monday, May 26 – 9:30 AM–12:30 PM**
-- Linear methods (Part II)
-- Nonlinear methods (Part I)
-
-### **Wednesday, May 28 – 9:30 AM–1:00 PM**
-- Nonlinear methods (Part II)
+### **Day 2**
+- Nonlinear methods
 - Neural network methods
 
 
