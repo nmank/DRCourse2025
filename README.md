@@ -29,7 +29,7 @@ pytorch
 ```
 
 ## Further Reading
-A detailed review of dimensionality reduction for remote sensing and be found [https://arxiv.org/pdf/2510.18935](here)
+A detailed review of dimensionality reduction for remote sensing and be found [here](https://arxiv.org/pdf/2510.18935)
 ```
 @misc{mankovich2025dr4rs,
       title={Dimensionality Reduction for Remote Sensing Data Analysis: A Systematic Review of Methods and Applications}, 
